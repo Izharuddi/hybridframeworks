@@ -1,0 +1,6 @@
+2025-05-31 10:46:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\izhar\eclipse-workspace1\hybridframeworks\grouping.xml
+
+2025-05-31 10:46:46 INFO  Testcase1:28 - click on my account
+2025-05-31 10:46:46 INFO  Testcase1:30 - click on register
+2025-05-31 10:46:46 INFO  Testcase1:44 - enter all details
